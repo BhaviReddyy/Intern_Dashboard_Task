@@ -95,9 +95,3 @@ This project currently supports **Add Intern functionality** only. (No Delete/Ed
 ## Author
 
 * [Bhavya Reddy](https://github.com/BhaviReddyy)
-
-
-
-
-
-Do you want me to generate this README.md as a **ready-to-upload file (.md)?**
