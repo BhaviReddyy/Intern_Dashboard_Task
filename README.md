@@ -94,7 +94,7 @@ This project currently supports **Add Intern functionality** only. (No Delete/Ed
 
 ## Author
 
-* [Bhavya Reddy](https://github.com/yourusername)
+* [Bhavya Reddy](https://github.com/BhaviReddyy)
 
 
 
