@@ -77,8 +77,6 @@ intern_dashboard_project/
 6. Access the App
    Open your browser and go to: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
-7.Screenshots
-"C:\Users\Bhavya\OneDrive\Pictures\Screenshots\Screenshot (38).png"
 ## Tech Stack
 
 * Python 3.x
