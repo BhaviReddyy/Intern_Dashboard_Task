@@ -42,45 +42,43 @@ intern_dashboard_project/
 
 ## Setup Instructions
 
-1. **Clone the Repository**
+1. Clone the Repository
 
    ```bash
    git clone https://github.com/yourusername/intern_dashboard_project.git
    cd intern_dashboard_project
    ```
 
-2. **Create Virtual Environment (optional but recommended)**
+2. Create Virtual Environment 
 
    ```bash
    python -m venv venv
    source venv/bin/activate  # For Windows: venv\Scripts\activate
    ```
 
-3. **Install Dependencies**
+3. Install Dependencies
 
    ```bash
    pip install django
    ```
 
-4. **Run Migrations**
+4. Run Migrations
 
    ```bash
    python manage.py migrate
    ```
 
-5. **Run the Server**
+5. Run the Server
 
    ```bash
    python manage.py runserver
    ```
 
-6. **Access the App**
+6. Access the App
    Open your browser and go to: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
-## Screenshots
-
-(Add screenshots of your Dashboard Page and Add Intern Page here)
-
+7.Screenshots
+"C:\Users\Bhavya\OneDrive\Pictures\Screenshots\Screenshot (38).png"
 ## Tech Stack
 
 * Python 3.x
